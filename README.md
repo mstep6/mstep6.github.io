@@ -19,6 +19,7 @@
           font-weight: bold;">
   LinkedIn Profile
 </a>
+![Profile picture](Marissa Stephens-0018.jpg)
 
   </body>
 </html>
