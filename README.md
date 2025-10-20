@@ -27,7 +27,7 @@
 <p>I'm currently studying Computer Science with an emphasis in Bioinformatics at Brigham Young University. I will graduate in April of 2028. I'm passionate about using technology to solve real-world problems, especially those at the intersection of computing and biology. I enjoy breaking down complex problems, designing efficient solutions, and collaborating with others to make ideas come to life. In my free time, I love to dance, go kayaking, and spend time with friends and family. </p>
 <h3>Projects</h3>
       <h4>Financial Calculator</h4>
-      <p>I built a small, interactive financial calculator that can calculate how long it would take to payoff a loan given a monthly payment, how long it would take to save a desired amount, analyze spending habits, and build a simple budget.</p>
+      <p>I built a small, interactive financial calculator that can calculate how long it would take to pay off a loan given a monthly payment, how long it would take to save a desired amount, analyze spending habits, and build a simple budget.</p>
       <h4>DNA Sequencer and Analysis Tool</h4>
       <p>I'm currenlty working on a project that will be able to analyze a file containing a DNA sequence. It will be able to build a reverse complement of the sequence, find the ratios of Adenine, Guanine, Cytosine, and Thymine, and compare the sequence to another sequence to find any differences.</p>
     <h3>Relevant Coursework</h3>
