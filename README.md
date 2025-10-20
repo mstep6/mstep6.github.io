@@ -23,6 +23,7 @@
     LinkedIn Profile
   </a>
 </div>
+<h3>About</h3>
 <p>I'm currently studying Computer Science with an emphasis in Bioinformatics at Brigham Young University. I will graduate in April of 2028. I'm passionate about using technology to solve real-world problems, especially those at the intersection of computing and biology. I enjoy breaking down complex problems, designing efficient solutions, and collaborating with others to make ideas come to life. In my free time, I love to dance, go kayaking, and spend time with friends and family. </p>
 <h3>Projects</h3>
       <h4>Financial Calculator</h4>
