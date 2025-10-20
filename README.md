@@ -26,11 +26,11 @@
 <p>I'm currently studying Computer Science with an emphasis in Bioinformatics at Brigham Young University. I will graduate in April of 2028. I'm passionate about using technology to solve real-world problems, especially those at the intersection of computing and biology. I enjoy breaking down complex problems, designing efficient solutions, and collaborating with others to make ideas come to life. In my free time, I love to dance, go kayaking, and spend time with friends and family. </p>
 <h3>Projects</h3>
       <h4>Financial Calculator</h4>
-      <p>I built a small, interactive financial calculator that can calculate how long it would take to payoff a loan given a montly payment, how long it would take to save a desired amount, analyze spending habits, and build a simple budget.</p>
+      <p>I built a small, interactive financial calculator that can calculate how long it would take to payoff a loan given a monthly payment, how long it would take to save a desired amount, analyze spending habits, and build a simple budget.</p>
       <h4>DNA sequencer and analysis tool</h4>
-      <p>I'm currenlty working on a project that will be able to analyze a file that contains a DNA sequence. It will be able to build a reverse complement of the sequence, find the ratios of Adenine, Guanine, Cytosine, and Thymine, and compare the sequence to another sequence to find any differences.</p>
+      <p>I'm currenlty working on a project that will be able to analyze a file containing a DNA sequence. It will be able to build a reverse complement of the sequence, find the ratios of Adenine, Guanine, Cytosine, and Thymine, and compare the sequence to another sequence to find any differences.</p>
     <h3>Relevant Coursework</h3>
-    <p>Completed: Calculus 1 & 2, Linear and Computational Algebra, Introduction to Computer Science, Intoduction to Bioinformatics</p>
+    <p>Completed: Calculus 1 & 2, Linear and Computational Algebra, Introduction to Computer Science, Introduction to Bioinformatics</p>
     <p>Current: Data Structures, Introduction to Data Science, Statistics, Molecular Biology</p>
     <h3>Skills</h3>
     <ul>
