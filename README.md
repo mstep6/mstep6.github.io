@@ -28,7 +28,7 @@
 <h3>Projects</h3>
       <h4>Financial Calculator</h4>
       <p>I built a small, interactive financial calculator that can calculate how long it would take to payoff a loan given a monthly payment, how long it would take to save a desired amount, analyze spending habits, and build a simple budget.</p>
-      <h4>DNA sequencer and analysis tool</h4>
+      <h4>DNA Sequencer and Analysis Tool</h4>
       <p>I'm currenlty working on a project that will be able to analyze a file containing a DNA sequence. It will be able to build a reverse complement of the sequence, find the ratios of Adenine, Guanine, Cytosine, and Thymine, and compare the sequence to another sequence to find any differences.</p>
     <h3>Relevant Coursework</h3>
     <p>Completed: Calculus 1 & 2, Linear and Computational Algebra, Introduction to Computer Science, Introduction to Bioinformatics</p>
